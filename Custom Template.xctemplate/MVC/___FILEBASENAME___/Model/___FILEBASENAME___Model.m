@@ -1,8 +1,8 @@
 //___FILEHEADER___
 
-#import "___FILEBASENAME___Model.h"
+#import "___FILEBASENAME___.h"
 
-@implementation ___FILEBASENAME___Model
+@implementation ___FILEBASENAME___
 
 
 @end

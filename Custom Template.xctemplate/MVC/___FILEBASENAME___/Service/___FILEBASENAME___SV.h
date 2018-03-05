@@ -2,6 +2,6 @@
 
 #import "EBaseSV.h"
 
-@interface ___FILEBASENAME___SV: EBaseSV
+@interface ___FILEBASENAME___: EBaseSV
 
 @end

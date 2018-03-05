@@ -2,7 +2,7 @@
 
 #import <UIKit/UIKit.h>
 #import "ETableViewCell.h"
-@interface ___FILEBASENAME___Cell: ETableViewCell
+@interface ___FILEBASENAME___: ETableViewCell
 
 
 @end

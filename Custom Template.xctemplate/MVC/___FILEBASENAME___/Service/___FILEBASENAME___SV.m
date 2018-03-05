@@ -1,8 +1,8 @@
 //___FILEHEADER___
 
-#import "___FILEBASENAME___SV.h"
+#import "___FILEBASENAME___.h"
 
-@implementation ___FILEBASENAME___SV
+@implementation ___FILEBASENAME___
 - (id)requestNetWorkWithPathComponents:(NSArray *)pathComponents
                                  param:(NSDictionary *)param
                             completion:(ECompletionType)completion

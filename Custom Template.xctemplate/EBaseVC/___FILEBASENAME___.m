@@ -1,10 +1,8 @@
 //___FILEHEADER___
 
 #import "___FILEBASENAME___.h"
-#import "___FILEBASENAME___.h"
 
 @interface ___FILEBASENAME___ ()
-@property (nonatomic, strong) ___FILEBASENAME___VM *___FILEBASENAME___VM;
 
 @end
 
@@ -26,8 +24,10 @@
 - (void)layoutViews
 {
 }
+
 #pragma mark - event response
 #pragma mark - delegate
 #pragma mark - UITableViewDataSource, UITableViewDelegate
 #pragma mark - lazy initial
+
 @end

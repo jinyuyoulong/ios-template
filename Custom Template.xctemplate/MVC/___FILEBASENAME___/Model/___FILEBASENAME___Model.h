@@ -2,7 +2,7 @@
 
 #import "EBaseModel.h"
 
-@interface ___FILEBASENAME___Model : EBaseModel
+@interface ___FILEBASENAME___ : EBaseModel
 
 @property(nonatomic, copy)NSString *xxx;
 
