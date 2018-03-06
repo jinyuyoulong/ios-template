@@ -1,9 +1,16 @@
 //___FILEHEADER___
 
-#import "___FILEBASENAME___.h"
+@interface ___FILEBASENAME___ ()
+//MARK: - propties
+
+@end
 
 @implementation ___FILEBASENAMEASIDENTIFIER___
-
-// custom code
+//MARK: - life cycle
+//MARK: - public methods
+//MARK: - private methods
+//MARK: - event response
+//MARK: - delegate
+//MARK: - lazy
 
 @end
